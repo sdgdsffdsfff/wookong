@@ -1,0 +1,3 @@
+[submodule "FreeWAF"]
+	path = FreeWAF
+	url = git@github.com:qiulin/FreeWAF.git
